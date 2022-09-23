@@ -1,0 +1,20 @@
+{
+    "name": "Application List Generator",
+    "description": "Reduce the Cognitive Load!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting", "clipboardWrite"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/checklist16.png"
+        },
+        "default_title": "Application List Generator"
+    },
+    "icons": {
+        "16": "/images/checklist16.png",
+        "32": "/images/checklist32.png",
+        "48": "/images/checklist64.png",
+        "128": "/images/checklist128.png"
+    }
+}
