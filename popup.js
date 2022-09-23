@@ -1,6 +1,7 @@
 // Initialize button with user's preferred color
 let generateButton = document.getElementById("generate");
 
+
 // When the button is clicked, inject setPageBackgroundColor into current page
 generateButton.addEventListener("click", async () => {
   let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
