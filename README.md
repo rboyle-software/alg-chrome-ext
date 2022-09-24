@@ -10,7 +10,7 @@ If you're planning to apply to a large number of companies you're probably famil
 <br>
 *"Should I apply today or wait for Monday? Or maybe after the holidays..."*
 <br><br>
-You might be surprise at how much energy is spent just deciding where to apply next. Let's **reduce the cognitive load** and use that energy to hone our skills and perform well in interviews.
+You might be surprised at how much energy is spent just deciding where to apply next. Let's **reduce the cognitive load** and use that energy to hone our skills and perform well in interviews.
 
 ## Instructions
 - Grab the extension from the Chrome Web Store
