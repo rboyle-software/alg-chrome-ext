@@ -43,7 +43,7 @@ You might be surprise at how much energy is spent just deciding where to apply n
 <br><br>
 
 ## Additional Resources
-- Application Tracker - A spreadsheet template to document and quantify progress during the job search
-- Interview Skills Grid - An application to gamify advanced skills development
-- Resume Worded - Test your resume against a real Applicant Tracking System and get personalized advice and feedback
-- Original Application List Generator - Before it was a browser extension, it was just a loose collection of functions
+- [**Application Tracker**](https://docs.google.com/spreadsheets/d/1WWVUcVZcO-LZrarvu0fQkROGGe-W3XVZRAryvyyI8OM/edit?usp=sharing) - A spreadsheet template to document and quantify progress during the job search
+- [**Interview Skills Grid**](https://interview-skills-grid.herokuapp.com/) - An application to gamify advanced skills development
+- [**Resume Worded**](https://resumeworded.com/first-login-home.php) - Test your resume against a real Applicant Tracking System and get personalized advice and feedback
+- [**Original Application List Generator**](https://github.com/relandboyle/application-list-generator) - Before it was a browser extension, it was just a loose collection of functions
