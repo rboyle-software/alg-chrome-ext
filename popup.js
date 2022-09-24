@@ -70,7 +70,6 @@ function copyToClipboard() {
       generatedList = glassDoor();
     }
 
-
     console.log(generatedList);
     generatedList.length && navigator.clipboard.writeText(generatedList);
     alert((generatedList.length) ? 'Click OK to copy your list to the clipboard!' : 'Error: Are you visiting an approved web page?\nVisit our GitHub repo for more information.');
