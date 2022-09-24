@@ -1,19 +1,21 @@
 # Application List Generator - Chrome Browser Extension
 ### Rapidly generate a curated list of companies to target in your job search.
-<br>
-
-If you're planning to apply to a large number of companies you're probably familiar with that feeling we get after submitting an application:
+[**Add to Chrome**](https://chrome.google.com/webstore/detail/application-list-generato/bcclimjheambkhebeofgibmncjmllbcl?hl=en)
 <br><br>
+
+### If you're planning to apply to a large number of companies you're probably familiar with that feeling we get after submitting an application:
 *"Where should I apply next?"*
 <br>
 *"Am I ready to apply to my dream job?"*
 <br>
 *"Should I apply today or wait for Monday? Or maybe after the holidays..."*
-<br><br>
-You might be surprise at how much energy is spent just deciding where to apply next. Let's **reduce the cognitive load** and use that energy to hone our skills and perform well in interviews.
+<br>
+
+### You might be surprised at how much energy is spent just deciding where to apply next. Let's **reduce the cognitive load** and use that energy to hone our skills and perform well in interviews.
+<br>
 
 ## Instructions
-- Grab the extension from the Chrome Web Store
+- Grab the extension from the [**Chrome Web Store**](https://chrome.google.com/webstore/detail/application-list-generato/bcclimjheambkhebeofgibmncjmllbcl?hl=en)
 - Visit one of the approved web pages to browse, search, and filter the listings
 - Click on the extension icon, then click the button for "Generate List!"
 - Dismiss the alert to copy your list to the clipboard
